@@ -31,19 +31,19 @@ Be sure to log out and back in after install. You will need the system to recogn
 For a standard, standalone, configuration on Ubuntu 12.04 run:
 
 
-    // install git ssh make if you don't have
+    // Step 1: Install git ssh make if you don't have
     sudo apt-get install git ssh make
     
-    // clone from repo
+    // Step 2: Clone from repo
     git clone https://github.com/genome/gms.git
     
-    // change to gms folder
+    // Step 3: Change to gms folder
     cd gms
     
-    // run makefile
+    // Step 4: Run makefile
     make
     
-    // copy customised file
+    // Step 5: Copy customised files
     cd custm
     cp -R InstrumentData/ *{Your installation folder}*/
     
