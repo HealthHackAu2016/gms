@@ -43,6 +43,10 @@ For a standard, standalone, configuration on Ubuntu 12.04 run:
     // run makefile
     make
     
+    // copy customised file
+    cd custm
+    cp -R InstrumentData/ {Your installation folder}/
+    
 Once the installation completes make sure to log out and log in again to ensure your user permissions are set properly.
 
 ## Run
