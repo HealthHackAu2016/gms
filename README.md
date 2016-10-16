@@ -10,7 +10,7 @@ Please check more detailed in <a href="https://github.com/genome/gms">Genome Mod
 # Problem Description
     
 
-<img src="https://github.com/HealthHackAu2016/gms/blob/ubuntu-12.04/assets/gms_commandtreev2.png"></img>
+<img src="https://github.com/HealthHackAu2016/gms/blob/ubuntu-12.04/assets/gms_commandtree.png"></img>
 
 # Strategy
 
