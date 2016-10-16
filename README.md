@@ -17,15 +17,22 @@ Please check more detailed in <a href="https://github.com/genome/gms">Genome Mod
 
 # How To Use
 ## Installation
-### Installation on Ubuntu 12.04
+### Installation on Ubuntu
 Be sure to log out and back in after install. You will need the system to recognize that you are in the "genome" group.
 For a standard, standalone, configuration on Ubuntu 12.04 run:
 
 
-    $   sudo apt-get install git ssh make
-    $   git clone https://github.com/genome/gms.git
-    $   cd gms
-    $   make
+    // install git ssh make if you don't have
+    sudo apt-get install git ssh make
+    
+    // clone from repo
+    git clone https://github.com/genome/gms.git
+    
+    // change to gms folder
+    cd gms
+    
+    // run makefile
+    make
     
 Once the installation completes make sure to log out and log in again to ensure your user permissions are set properly.
 
