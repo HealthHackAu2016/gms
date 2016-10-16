@@ -9,7 +9,7 @@ Please check more detailed in <a href="https://github.com/genome/gms">Genome Mod
 
 # Problem Description
 GMS is being widely used for years in many cases of genetics. Research can run integrated tools and manage generated results within command line environment.
-But development has been slowing down and stopped in 2015. GMS gradually couldn't support state of the art technologies since then. To solve this situation, this project needs more contributors to continue development.
+But development has been slowing down and stopped in 2015. Since then GMS gradually couldn't support state of the art technologies. To solve this situation, this project needs more contributors to continue development.
 On this stage, we'd like to add more model types for current version of GMS which includes:
 
  - Bwa mem
@@ -23,9 +23,6 @@ On this stage, we'd like to add more model types for current version of GMS whic
 # Challenge
 GMS is well-documented for users. But unfortunately they don't provide corresponding documents in repository to let developers understand software structure and data flow. 
 To some degree, developers can only understand codes from users' manual and wiki. So we started **REVERSE ENGINEERING**.
-
-# Strategy
-
 
 # How To Use
 ## Installation
@@ -88,8 +85,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-# Quick navigation:
-
-
-
