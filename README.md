@@ -1,7 +1,7 @@
 Genome Modeling System Enhancement
 ==================================
 
-This project is the enhancement of the Genome Modeling System (GMS) for supporting more model types.  
+This project is the enhancement of Genome Modeling System (GMS) for supporting more model types.  
 Please check more details at <a href="https://github.com/genome/gms">Genome Modeling System</a>
 
 <img src="https://github.com/HealthHackAu2016/gms/blob/ubuntu-12.04/assets/dna-1280.jpg"></img>
