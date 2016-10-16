@@ -11,7 +11,7 @@ Please check more detailed in <a href="https://github.com/genome/gms">Genome Mod
     
 
 
-<img src="https://raw.githubusercontent.com/wiki/genome/gms/Images/gms_commandtreev2.png"></img>
+<img src="https://github.com/HealthHackAu2016/gms/blob/ubuntu-12.04/assets/gms_commandtreev2.png"></img>
 
 # Strategy
 
