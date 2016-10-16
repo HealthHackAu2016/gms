@@ -8,9 +8,23 @@ Please check more detailed in <a href="https://github.com/genome/gms">Genome Mod
 
 
 # Problem Description
-    
+GMS is being widely used in many cases of genetics area for years. But development has been slowing down and stopped in 2015. GMS gradually couldn't support state of the art technologies since then. To solve this situation, this project needs more contributors to continue development.
+On this stage, we'd like to add more model types for current version of GMS which includes:
+
+ - Bwa mem
+ - Bwa aln
+ - SV upgrade
+ - CLINSEQ upgrade
+ - etc
 
 <img src="https://github.com/HealthHackAu2016/gms/blob/ubuntu-12.04/assets/gms_commandtree.png"></img>
+
+# Challenge
+GMS is well-documented for users. But unfortunately they don't have corresponding documents to let developers understand software structure and data flow. 
+To some degree, developers can only understand codes from users' manual.
+
+# 
+
 
 # Strategy
 
